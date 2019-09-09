@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1567773442 source:c:\codeblock_codes\snake game\main.cpp
+1568042864 source:c:\codeblock_codes\snake game\main.cpp
 	<iostream>
 	<conio.h>
 	<stdlib.h>
