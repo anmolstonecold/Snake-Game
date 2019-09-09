@@ -309,7 +309,7 @@ switch(dir)
 
     }
     if( x>width || x<0 || y>height || y<0)
-        gameover=false;
+        gameover=true;
 
         //x=rand()%width;
 
