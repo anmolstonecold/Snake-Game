@@ -8,7 +8,7 @@ using namespace std;
 bool gameover;
 const int width=20;
 const int height = 20;
-int x,y,fruitX,fruitY,score,wallX,wallY;
+int x,y,fruitX,fruitY,score,wallX,wallY;  //these are the variables which will help to store the main values
 int tailX[100],tailY[100];
 int ntail;
 enum eDirection
@@ -371,7 +371,7 @@ int main()
     }
     break;
     default:
-        cout<<"Invalid choice of LEVEL!";
+        cout<<"the choice is InvalidLEVEL!";
     }
 
     return 0;
